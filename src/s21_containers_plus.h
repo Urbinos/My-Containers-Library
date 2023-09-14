@@ -1,0 +1,7 @@
+#ifndef CONTAINERS_SRC_S21_CONTAINERS_PLUS_H_
+#define CONTAINERS_SRC_S21_CONTAINERS_PLUS_H_
+
+#include "s21_array.h"
+#include "s21_multiset.h"
+
+#endif  //  CONTAINERS_SRC_S21_CONTAINERS_PLUS_H_
